@@ -263,7 +263,7 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Website: [Okraw.com](http://Okraw.com)
     - Website: [GrowYourGreens.com](http://GrowingYourGreens.com)
     - Website: [DiscountJuicers.com](https://DiscountJuicers.com)
-- Lee, Cahlen
+- Lee, Cahlen Riley
     - Website: [Cahlen.org](https://Cahlen.org)
     - Website: [ModernDayWizards.org](https://ModernDayWizards.org)
 - McDonald, Dan "The Man" "The Life Regernerator"
