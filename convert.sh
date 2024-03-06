@@ -4,10 +4,12 @@
 
 date
 
-rm -v ebook.pdf
+if [[ -e ebook.pdf ]]; then
+	rm -v ebook.pdf
+fi
 
 pandoc ebook.md \
-	-s --columns 200 --toc --toc-depth=3 -N \
+	-s -N --toc --toc-depth=3 \
 	-o ebook.pdf
 status=$?
 
