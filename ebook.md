@@ -266,7 +266,7 @@ Below are many of the sources I have used when building my health arsenals. I do
 - Lee, Cahlen Riley "The Modern Day Wizard"
     - Website: *[Cahlen.org](https://Cahlen.org)*
     - Website: *[ModernDayWizards.org](https://ModernDayWizards.org)*
-- McDonald, Dan "The Man" "The Life Regernerator"
+- McDonald, Dan "The Man" "The Life Regenerator"
     - Website: *[RegenerateYourLife.org](https://www.regenerateyourlife.org/)*
 - McDougall, Dr. John
     - Book: "The Starch Solution"
