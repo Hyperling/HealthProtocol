@@ -221,7 +221,7 @@ Although I feel Natural Law is the most important knowledge out there, I sincere
 
 Please also keep in mind, this is not a religion or any sort of dogma which needs followed exactly or you go to a place called Hell. Yes, not following certain guidelines can result in a personal hell, but the point is to achieve as many of the guidelines in a long-term consistency. Messing up a few times a month is completely understandable and usually does not break the benefits, don't allow it to cause harmful mental stress.
 
-For example, I only claim to be eating a 95% whole foods diet, I do not attach emotionally to avoiding all processed foods in case I want to try a new experience which I've deemed safe for my current health levels. I do, however, maintain a 100% vegan diet so that I am not a part of the immoral harm being perpetrated onto other sentient beings.
+For example, I only claim to eat a 95% whole foods diet, I do not attach emotionally to avoiding all processed foods in case I want to try a new experience which I've deemed safe for my current health levels. I do, however, maintain a 100% vegan diet so that I am not a part of the immoral harm being perpetrated onto other sentient beings.
 
 # Farewell
 
