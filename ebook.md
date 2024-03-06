@@ -236,48 +236,48 @@ This book is open source, and can be found at *[github.com/Hyperling/HealthProto
 Below are many of the sources I have used when building my health arsenals. I do not claim to trust any of these sources 100% and some characters may even be considered controversial. I only take what I find to be True and discard any other information.
 
 - Barnard, Dr. Neal
-    - Book: *Dr. Neal Barnard's Program for Reversing Diabetes*
-    - Website: Physician's Committee for Responsible Medicine, [pcrm.org](https://www.pcrm.org/health-topics/diabetes)
+    - Book: "Dr. Neal Barnard's Program for Reversing Diabetes"
+    - Website: Physician's Committee for Responsible Medicine, *[pcrm.org](https://www.pcrm.org/health-topics/diabetes)*
 - Campbell, Dr. T. Colin
-    - Book: *The China Study*
-    - Website: [NutritionStudies.org](https://nutritionstudies.org/)
+    - Book: "The China Study"
+    - Website: *[NutritionStudies.org](https://nutritionstudies.org/)*
 - Cheeke, Robert
-    - Book: *Vegan Bodybuilding & Fitness*
-    - Website: [VeganBodyBuilding.com](https://www.veganbodybuilding.com/)
+    - Book: "Vegan Bodybuilding & Fitness"
+    - Website: *[VeganBodyBuilding.com](https://www.veganbodybuilding.com/)*
 - "Drew Rice"
-    - ~~YouTube~~ Content Has Been Deleted
+    - ~~YouTube~~ (Content has been deleted.)
 - Esselstyn, Dr. Caldwell
-    - Book: *Prevent and Reverse Heart Disease*
-    - Website: [DrEsselstyn.com](https://www.dresselstyn.com/site/)
+    - Book: "Prevent and Reverse Heart Disease"
+    - Website: *[DrEsselstyn.com](https://www.dresselstyn.com/site/)*
 - Graham, Dr. Doug
-    - Book: *The 80-10-10 Diet*
-    - Website: [FoodnSport.com](https://foodnsport.com/about/)
-- Gregor, Dr. Michael
-    - Website: [NutritionFacts.org](https://NutritionFacts.org)
+    - Book: "The 80-10-10 Diet"
+    - Website: *[FoodnSport.com](https://foodnsport.com/about/)*
+- Greger, Dr. Michael
+    - Website: *[NutritionFacts.org](https://NutritionFacts.org)*
 - "Happy Healthy Vegan"
-    - Website: [HappyHealthyVegan.org](https://www.happyhealthyvegan.org/)
+    - Website: *[HappyHealthyVegan.org](https://www.happyhealthyvegan.org/)*
 - Johnstone, Harley "Durianrider"
-    - Website: [Durianrider.com](https://durianrider.com)
-    - Website: [30BananasADay.com](https://30bananasaday.com)
+    - Website: *[Durianrider.com](https://durianrider.com)*
+    - Website: *[30BananasADay.com](https://30bananasaday.com)*
 - Kohler, John
-    - Website: [Okraw.com](http://Okraw.com)
-    - Website: [GrowYourGreens.com](http://GrowingYourGreens.com)
-    - Website: [DiscountJuicers.com](https://DiscountJuicers.com)
-- Lee, Cahlen Riley
-    - Website: [Cahlen.org](https://Cahlen.org)
-    - Website: [ModernDayWizards.org](https://ModernDayWizards.org)
+    - Website: *[Okraw.com](http://Okraw.com)*
+    - Website: *[GrowYourGreens.com](http://GrowingYourGreens.com)*
+    - Website: *[DiscountJuicers.com](https://DiscountJuicers.com)*
+- Lee, Cahlen Riley "The Modern Day Wizard"
+    - Website: *[Cahlen.org](https://Cahlen.org)*
+    - Website: *[ModernDayWizards.org](https://ModernDayWizards.org)*
 - McDonald, Dan "The Man" "The Life Regernerator"
-    - Website: [RegenerateYourLife.org](https://www.regenerateyourlife.org/)
+    - Website: *[RegenerateYourLife.org](https://www.regenerateyourlife.org/)*
 - McDougall, Dr. John
-    - Book: *The Starch Solution*
-    - Website: [DrMcDougall.com](https://www.drmcdougall.com/)
+    - Book: "The Starch Solution"
+    - Website: *[DrMcDougall.com](https://www.drmcdougall.com/)*
 - Passio, Mark
-    - Website: [WhatOnEarthIsHappening.com](https://WhatOnEarthIsHappening.com)
-    - Website: [OneGreatWorkNetwork.com](https://OneGreatWorkNetwork.com)
+    - Website: *[WhatOnEarthIsHappening.com](https://WhatOnEarthIsHappening.com)*
+    - Website: *[OneGreatWorkNetwork.com](https://OneGreatWorkNetwork.com)*
 - Ratcliffe, Leanne "Freelee the Banana Girl"
-    - Website: [TheBananaGirl.com](https://thebananagirl.com)
-    - Website: [30BananasADay.com](https://30bananasaday.com)
+    - Website: *[TheBananaGirl.com](https://thebananagirl.com)*
+    - Website: *[30BananasADay.com](https://30bananasaday.com)*
 - Rose, John
-    - Videos: [Odysee | John Rose](https://odysee.com/@JohnRose:9)
+    - Videos: *[Odysee | John Rose](https://odysee.com/@JohnRose:9)*
 - "Vegan Gains"
-    - Videos: [Odysee | Vegan Gains](https://odysee.com/@VeganGains:1)
+    - Videos: *[Odysee | Vegan Gains](https://odysee.com/@VeganGains:1)*
