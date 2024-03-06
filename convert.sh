@@ -4,16 +4,20 @@
 
 date
 
-if [[ -e ebook.pdf ]]; then
-	rm -v ebook.pdf
+ebook="HyperlingHealthProtocol.pdf"
+
+if [[ -e $ebook ]]; then
+	rm -v $ebook
 fi
 
 pandoc ebook.md \
 	-s -N --toc --toc-depth=3 \
-	-o ebook.pdf
+	-o $ebook
 status=$?
 
 echo "Completed with status '$status'."
+
+du -h $ebook
 
 date
 
