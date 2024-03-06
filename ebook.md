@@ -199,7 +199,7 @@ This world is abundant and has many pleasures for us to enjoy.
 - It's okay to make mistakes and slide back, not even I was perfect but it made learning my lessons even more important. Be able to admit when you're wrong and take ownership of it.
     - Have responsibility for yourself, seek improvement, and try not to insult or cuss yourself if you have a mishap or failing.
 - Become your own best friend.
-    - You should be happy and feel fulfilled doing the things you enjoy without inviting others. Their approval and attention is not be required for activating the love you have inside. Take yourself on that trip you've always wanted. Give yourself dinner and a movie. Understand what it feels like to not have to rely on others for your emotional health.
+    - You should be happy and feel fulfilled doing the things you enjoy without inviting others. Their approval and attention is not required for activating the love you have inside. Take yourself on that trip you've always wanted. Give yourself dinner and a movie. Understand what it feels like to not have to rely on others for your emotional health.
 
 ## Bonus: Natural Law
 
