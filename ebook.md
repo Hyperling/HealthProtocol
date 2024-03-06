@@ -12,7 +12,7 @@ The author is providing this information free of charge with no warranty and can
 
 ## Other Formats
 
-This book and all its formats can be found at [Hyperling.com/health](https://hyperling.com/health/).
+This book and all its formats can be found at *[Hyperling.com/health](https://hyperling.com/health/)*.
 
 # Introduction
 
@@ -67,19 +67,20 @@ This section is the largest simply because there are so many misconceptions in t
 - Whole foods like you could get in nature. Packaged food should have only a single ingredient, such as "Organic Dried Mangoes", "Organic White Jasmine Rice", or "Organic Ground Black Pepper".
     - Pre-cut is fine as long as it's not days old or obviously already oxidized.
     - Canned food can be okay too but fresh or homemade is ideal.
-- High carb low fat vegan with a focus on getting plenty of calories. Sweet fruits and rice are good staples. Have a broad array of foods to rely on, and keep it seasonal too for additional fun.
-    - Macronutrient ratio on [Cronometer.com](https://cronometer.com) should be set to 80/10/10, and choose the calorie needs to be where you want your future activity levels to be, not your current level.
+- High carb low fat vegan with a focus on getting plenty of calories. Sweet fruits and rice are good staples. Have a broad array of foods to rely on. Keeping up with seasonal foods can be fun!
+    - This is not a mainstream "vegan diet" with fake meats and cheeses, those products are processed food and should be considered harmful to health. This is why whole foods was listed as point #1.
+    - The macronutrient ratio on a website like *[Cronometer.com](https://cronometer.com)* should be set to 80/10/10, and choose the calorie needs to be where you want your future activity levels to be, not your current level.
         - Macronutrient ratio mostly only matters at the week level. Getting enough calories definitely matters daily. What you eat today is your energy for tomorrow. Small discrepancies are okay but too many will break the consistency. For example, a single 60/30/10 day will not hurt if all your other days are 90/5/5.
-   - This is not a mainstream "vegan diet" with fake meats and cheeses, those products are processed food and should be considered harmful to health. This is why whole foods was listed as point #1.
 - Greens and veggies are important but don't stress on them if you fall a little behind, get your calories first and then you'll have energy to use for supplementing in more nutrition dense foods.
 - If eating a lot of white rice or similar then be sure to plan high fiber meals, like an all fruit breakfast or add fiber-rich ingredients like quinoa or beans to your rice.
 - Simple simple simple. Food combining is a complex topic, but try to eat raw foods first, then cooked. Monomeals are ideal. Try to keep dishes at 5 to 10 ingredients or less. That number includes each of the salts / seasonings / toppings.
-- Avoid known irritants. Many people have issues with alliums (onion, garlic) due to their neurotoxins. They also promote poor body odor. Nightshades, most nuts/seeds, and some fruits like guava also don't agree with me personally, and you may have your own sensitivities which I am able to handle fine.
+- Avoid known irritants. Many people have issues with alliums (onion, garlic) due to their neurotoxins. They also cause stinky body odor. Nightshades, most nuts/seeds, and some fruits like guava also don't agree with me personally, and you may have your own sensitivities which I am able to handle fine and cannot advise on.
     - Organic food should be preferred over traditional unless you are sure the produce has not been sprayed with pesticides or grown in unclean, polluted, or otherwise poorly managed soil. Locally grown food, even if not certified Organic, can be an excellent source if the farmers understand natural growing methods.
     - Absolutely avoid alcohol, it is nicknamed *Liquid Cancer* in certain health communities. It destroys many types of cells including red blood cells which directly correlate with athletic performance. If you would like the benefits of red wine, try making grape juice.
 - Avoid stimulants such as caffeine if looking to heal. They should not be necessary on this abundant lifestyle. Waking up in the morning will be a breeze, grogginess is a thing of the past.
-- A short color picture book by Dr. John McDougall has a really good explanation of each food group. The warning about fruit is geared towards diabetics, fruit is excellent and preferably the top choice for those who can handle it. It also covers lifestyle activities similar to this medium. I would whole-heartedly approve of anyone aligning their lifestyle with McDougall's recommendations.
-    - Get the free PDF [on his site](https://www.drmcdougall.com/education/information/cpb/) or [my backup copy](https://hyperling.com/files/media/documents/McDougall-Color-Picture-Book.pdf).
+- A free and short color picture book by Dr. John McDougall has a really good explanation of each food group. The warning about fruit is geared towards diabetics, fruit is excellent and preferably the top choice for those who can handle it. It also covers exercise and other activities similar to this lifestyle. I would whole-heartedly approve of anyone aligning their lifestyle with McDougall's recommendations.
+    - On his website: *[DrMcDougall.com/education/information/cpb](https://www.drmcdougall.com/education/information/cpb/)*
+    - Backup: *[Hyperling.com/files/media/documents/McDougallCPB.pdf](https://hyperling.com/files/media/documents/McDougallCPB.pdf)*
 - Switching to plants from high calorie animal products requires eating more volume than you may be used to in order to get enough energy. Cravings usually come from a lack of calories. It also may take time for your stomach to expand. A method to help with this is covered under [Hydration](#hydration).
 - My elevator-speech advice to person on blood medications was to eat large fruit breakfasts, including smoothies if on the go, then rice and beans for the rest of the day, and that it does not have to be religious. He followed this consistently while also eating at BBQs every few weekends and was still able to get off the prescriptions. I do not endorse eating at non-vegan BBQs, but it shows how powerful diet alone can be!
 - It also helps to slowly change your diet, replacing one staple at a time with a high calorie plant alternative. This helps to take the edge off of detoxification processes. Maybe change one item per week.
@@ -122,7 +123,7 @@ This is the easiest for people to get right, and many people seem pretty close a
 
 - A liter upon waking, before each meal, and before bed. Also as needed during exercise. Aim to be peeing clear throughout the day.
     - Waking up to pee once or twice during the night is a good sign. If doing everything right it should be possible to fall back asleep quickly. Keep a bucket or bottle near the bed if you'd prefer not to walk to a bathroom.
-    - Clear pee can have a straw tint as long as it's not dark or cloudy. Preferably there is little color. Try looking up a urine chart. [Click here to open an example](https://media.healthdirect.org.au/images/inline/original/urine-colour-chart_v4_25-01-24-3ce811.png).
+    - Clear pee can have a straw tint as long as it's not dark or cloudy. Preferably there is little color. Try looking up a urine chart. *[Click here to open an example](https://media.healthdirect.org.au/images/inline/original/urine-colour-chart_v4_25-01-24-3ce811.png)*.
 - Water should be from a clean source, not city tap water. Reverse osmosis and distillation are reliable methods. Well water can be great depending on where you live, getting it tested is a safe and recommended idea.
     - If you don't already know, water fluoridation, chlorination, and other processes done to tap water are unnatural and can lead to poor health. It can be drank if it's all that's available, otherwise plan ahead with your own bottles to avoid it.
     - Homemade water should have minerals added back in such as a teaspoon of sole water per glass / bottle so that the purified water does not strip the body of nutrients.
@@ -210,9 +211,9 @@ Unlocking all 6 pillars brings a unique opportunity. Now that you have mastered 
 
 __Resources__
 
-[onegreatworknetwork.com](https://onegreatworknetwork.com/)
+*[WhatOnEarthIsHappening.com](https://WhatOnEarthIsHappening.com)*
 
-[whatonearthishappening.com](https://whatonearthishappening.com/)
+*[OneGreatWorkNetwork.com](https://OneGreatWorkNetwork.com)*
 
 # Final Notes
 
@@ -226,9 +227,9 @@ For example, I only claim to be eating a 95% whole foods diet, I do not attach e
 
 Alrighty, well, thanks for watching / listening / reading! My channels and contact information can be found on my website listed below. Feel free to leave any comments, questions, or critiques. I'd love it if you shared this information with others as well. I hope you have a wonderful day!
 
--- Peace out, [Chad @ Hyperling.com](https://hyperling.com/about/)
+-- Peace out, *[Chad @ Hyperling.com](https://hyperling.com/about/)*
 
-This book is open source, and can be found at [github.com/Hyperling/HealthProtocol](https://github.com/Hyperling/HealthProtocol).
+This book is open source, and can be found at *[github.com/Hyperling/HealthProtocol](https://github.com/Hyperling/HealthProtocol)*.
 
 # Sources
 
