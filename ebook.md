@@ -238,7 +238,7 @@ Below are many of the sources I have used when building my health arsenals. I do
 - Barnard, Dr. Neal
     - Book: *Dr. Neal Barnard's Program for Reversing Diabetes*
     - Website: Physician's Committee for Responsible Medicine, [pcrm.org](https://www.pcrm.org/health-topics/diabetes)
-- Cambell, Dr. T. Colin
+- Campbell, Dr. T. Colin
     - Book: *The China Study*
     - Website: [NutritionStudies.org](https://nutritionstudies.org/)
 - Cheeke, Robert
