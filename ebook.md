@@ -20,9 +20,9 @@ Howdy folks, Chad here. I'm going to try to cover my health protocol as quickly 
 
 Please keep in mind that all I did was collect the information from various sources. I don't own it, did not invent it, and you can do what you want with it. This is my unique blend after 10 years of aggregation, testing, and enhancing. The saying "seek advice from those achieving the results you desire" really resonates with me, so here's more about my results so that you can gauge whether you'd like to continue listening.
 
-# Preamble - Why Listen?
+## Preamble - Why Listen?
 
-## Superhuman Powers
+### Superhuman Powers
 
 When I first started the lifestyle I fixed headaches, seasonal allergies, and digestive issues which I had almost all my life beforehand. I also had mental / emotional healings from depression and anxiety type issues like panic attacks, lethargy, and lack of motivation.
 
@@ -32,15 +32,15 @@ I don't get sore. My muscles can still get fatigued but it's nothing like the la
 
 I also healed my senses. My eyesight got better and my hearing and smelling got drastically better, to the point that people used to joke about me hearing a paper clip drop across a cube farm. The joke came from me guessing what song someone 2 desks away was listening to in his soundproof headphones without his neighbors even knowing he had music on.
 
-## Invincibility Not Guarenteed
+### Some Things Don't Change
 
-I can still get injured but inflammation is nowhere like before. I get little to no redness or swelling. Injuries heal quickly. Mosquito bites don't even swell and barely itch if I am completely avoiding restaurant type food (oils, salt).
+I can still get injured, luckily inflammation is nowhere like before. I get little to no redness or swelling. Injuries heal quickly. Mosquito bites don't even swell and barely itch if I am completely avoiding restaurant type food (oils, salt).
 
-I can be poisoned from consuming irritants too but they are easy to cleanse out based on the Water, Exercise, and Environment pillars. Even when I've had things like unripe barrel cactus fruit I was able to clear it out within a day then be back to normal.
+I can also be poisoned from consuming toxins and irritants, but they are easy to cleanse out based on the Water, Exercise, and Environment pillars. Even when I've had things like unripe barrel cactus fruit I was able to clear it out within a day then be back to normal.
 
 It's not just me though, I've helped other people get better. Some have stuck to it well enough to get off of all their medications. A friend who's had liver issues since childhood and been through many treatments even got to reduce his medications after taking the dietary advice.
 
-## Medications and Illnesses
+### Medications and Illnesses
 
 And just to be clear, I am not a pharmaceutical doctor and cannot help with your prescriptions. My advice would be to let your doctor know you are trying lifestyle changes and would like to be tested in a few weeks to see whether you can reduce your dosage. I cannot be involved in this process. If your doctor does not listen or is not receptive to healing via lifestyle, seek a second opinion.
 
@@ -255,7 +255,7 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Website: [HappyHealthyVegan.org](https://www.happyhealthyvegan.org/)
 - Johnstone, Harley "Durianrider"
     - Website: [Durianrider.com](https://durianrider.com)
-    - Website: [30bananasaday.com](https://30bananasaday.com)
+    - Website: [30BananasADay.com](https://30bananasaday.com)
 - Kohler, John
     - Website: [Okraw.com](http://Okraw.com)
     - Website: [GrowYourGreens.com](http://GrowingYourGreens.com)
@@ -273,7 +273,7 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Website: [OneGreatWorkNetwork.com](https://OneGreatWorkNetwork.com)
 - Ratcliffe, Leanne "Freelee the Banana Girl"
     - Website: [TheBananaGirl.com](https://thebananagirl.com)
-    - Website: [30bananasaday.com](https://30bananasaday.com)
+    - Website: [30BananasADay.com](https://30bananasaday.com)
 - Rose, John
     - Videos: [Odysee | John Rose](https://odysee.com/@JohnRose:9)
 - "Vegan Gains"
