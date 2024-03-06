@@ -16,11 +16,13 @@ This book and all its formats can be found at [Hyperling.com/health](https://hyp
 
 # Introduction
 
-Howdy folks, Chad here. I'm going to try to cover my health protocol as quickly as possible even though I could probably go on about for hours on each of the 6 topics.
+Howdy folks, Chad here. I'm going to try to cover my health protocol as quickly as possible even though I could probably go on about for hours on each of the 6 topics. So let's get into it! :)
 
-Please keep in mind that all I did was collect the information from various sources. I don't own it, did not invent it, and you can do what you want with it. This is my unique blend after 10 years of aggregation, testing, and enhancing. The saying "seek advice from those achieving the results you desire" really resonates with me, so here's more about my results so that you can gauge whether you'd like to continue listening.
+Please keep in mind that all I did was collect the information from various sources. I don't own it, did not invent it, and you can do what you want with it. This is my unique blend after 10 years of aggregation, testing, and enhancing.
 
 ## Preamble - Why Listen?
+
+The saying "seek advice from those achieving the results you desire" really resonated with me when I heard it during my original transition, so here's more about my results so that you can gauge whether you'd like to continue listening.
 
 ### Superhuman Powers
 
@@ -52,7 +54,7 @@ On the topic of cancer, it's important to understand that our bodies create canc
 
 All the topics require consistency to achieve maximum results. No exceptions. Failing on one can cause failures in others too. Image your health as a structure, like a temple. Each of the 6 protocols are like a pillar or column. Don't let your temple crumble.
 
-The first 4 subjects are Physical Internal: food, water, sleep, and exercise. These are like the four corner pillars of the temple. Taking care of them helps provide the framework for the last two center pillars: environment and outlook, which can be seen as Physical External and Nonphysical Internal respectively. You can imagine them as holding the center of the temple's vaulted roof, or maybe environment could be the floor and outlook is some sort of altar or a grand statue of Self.
+The first 4 subjects are Physical Internal: food, water, sleep, and exercise. These are like the four corner pillars of the temple. Taking care of them helps provide the framework for the last two center pillars: environment and outlook, which can be seen as Physical External and Nonphysical Internal respectively. You can imagine them as holding the center of the temple's vaulted roof, or environment could be the floor and outlook is an altar or a grand statue of Self.
 
 ## Diet
 
@@ -65,7 +67,7 @@ This section is the largest simply because there are so many misconceptions in t
 - Whole foods like you could get in nature. Packaged food should have only a single ingredient, such as "Organic Dried Mangoes", "Organic White Jasmine Rice", or "Organic Ground Black Pepper".
     - Pre-cut is fine as long as it's not days old or obviously already oxidized.
     - Canned food can be okay too but fresh or homemade is ideal.
-- High carb low fat vegan with a focus on getting plenty of calories. Sweet fruits and rice are good staples. Try to have a broad array of foods to rely on.
+- High carb low fat vegan with a focus on getting plenty of calories. Sweet fruits and rice are good staples. Have a broad array of foods to rely on, and keep it seasonal too for additional fun.
     - Macronutrient ratio on [Cronometer.com](https://cronometer.com) should be set to 80/10/10, and choose the calorie needs to be where you want your future activity levels to be, not your current level.
         - Macronutrient ratio mostly only matters at the week level. Getting enough calories definitely matters daily. What you eat today is your energy for tomorrow. Small discrepancies are okay but too many will break the consistency. For example, a single 60/30/10 day will not hurt if all your other days are 90/5/5.
    - This is not a mainstream "vegan diet" with fake meats and cheeses, those products are processed food and should be considered harmful to health. This is why whole foods was listed as point #1.
