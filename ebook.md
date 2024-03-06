@@ -250,7 +250,7 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Book: "Prevent and Reverse Heart Disease"
     - Website: *[DrEsselstyn.com](https://www.dresselstyn.com/site/)*
 - Graham, Dr. Doug
-    - Book: "The 80-10-10 Diet"
+    - Book: "The 80/10/10 Diet"
     - Website: *[FoodnSport.com](https://foodnsport.com/about/)*
 - Greger, Dr. Michael
     - Website: *[NutritionFacts.org](https://NutritionFacts.org)*
