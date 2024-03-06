@@ -149,7 +149,7 @@ Would you like to wake up feeling energetic without any type of coffee or tea?
 - I do not use a pillow and it resolved most my neck, shoulder, and back pains. I did this on my own though after giving up on a pillow and not buying another. I'm a side sleeper too, and do not rest on my arm, hair, hands, etc. My head / face is on the same surface and same level as my shoulder.
     - I'm unsure if this would help others as I have not met anyone who's tried.
 - I also find that firm surfaces give me a greater feeling of rest in the morning. My favorite mattress ever was a piece of OSB plywood with 2 single folded comforters on top as a cushion.
-    - A camping pad on a hard surface is also excellent. Insulation boards may work well too. All much cheaper and more natural feeling than mattresses!!
+    - A camping pad on a hard surface is also excellent. Insulation boards may work well too. Each of these are much cheaper and more natural feeling than mattresses.
 
 ## Activity
 
