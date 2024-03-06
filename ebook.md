@@ -144,7 +144,7 @@ Would you like to wake up feeling energetic without any type of coffee or tea?
 - No electronic screens after sunset, or at least within 30 minutes to an hour before you plan to get in bed.
     - Use dark themed apps and run an app for a blue light filtration AKA red shift AKA night light.
 - If having issues falling asleep, diabetes reversing doctor Neal Barnard recommends having a small carbohydrate snack, such as a few pieces of bread with nothing on them. I do that or sometimes drink a little maple syrup.
-- It is best not to wake up to an alarm in the morning. An emergency alarm set at the last possible time you should wake is acceptable as long as you plan t go to bed to wake up in advance of the time.
+- It is best not to wake up to an alarm in the morning. An emergency alarm set at the last possible time you can wake is acceptable as long as you plan t go to bed to wake up in advance of the time.
     - There are of course exceptions to this, such as needing to wake up at a time you'd normally be sleeping, but in that case it would also be important to analyze why health-harming activities are being purposefully planned.
 - I do not use a pillow and it resolved most my neck, shoulder, and back pains. I did this on my own though after giving up on a pillow and not buying another. I'm a side sleeper too, and do not rest on my arm, hair, hands, etc. My head / face is on the same surface and same level as my shoulder.
     - I'm unsure if this would help others as I have not met anyone who's tried.
