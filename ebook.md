@@ -191,6 +191,9 @@ Clean, tidy, and pleasant to look at, your immediate area is critical to having 
     - Scent homes with essential oil diffusers. If using incense leave windows open and be sure you know what the ingredients are, otherwise use sage leaves or other natural products.
 - If you live somewhere excessively polluted your best bet is to move, not trying to fix the environment, especially if it's someone else causing the harm. This is not easy advice but your health and any dependents you take with you will be thankful in the long run.
 - Mental toxins exist as well. This includes media such as the mainstream news, mindless television shows, music with poor messages, movies which push subjective morality, negative friends / family / coworkers, any social media addictions, etc.
+- Grounding, also called earthing, is spending time barefoot on surfaces conductive with the Earth such as soil, grass, and even cement. Swimming in natural bodies of water also works. The purpose is to trade electrons and bring the body into homeostasis.
+    - Grounding sheets exist for mattresses if you'd like to be grounded while you sleep. I wired mine directly to a grounding rod outside of the house rather than plugging it into an outlet.
+- Sun gazing is another practice which helps bring the body into alignment with our environment. It can be a great form of meditation. It's best done during the first and last hour of sunshine when its rays are less harsh.
 
 ## Positivity
 
@@ -268,6 +271,8 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Website: *[NutritionFacts.org](https://NutritionFacts.org)*
 - "Happy Healthy Vegan"
     - Website: *[HappyHealthyVegan.org](https://www.happyhealthyvegan.org/)*
+- "Jesse Tree"
+    - Website: *[ZiaPermaculture.com](https://www.ziapermaculture.com/)*
 - Johnstone, Harley "Durianrider"
     - Website: *[Durianrider.com](https://durianrider.com)*
     - Website: *[30BananasADay.com](https://30bananasaday.com)*
