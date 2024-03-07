@@ -4,9 +4,10 @@
 
 date
 
-ebook="HyperlingHealthProtocol.pdf"
+ebook="HyperlingsHealthProtocol.pdf"
 
 if [[ -e $ebook ]]; then
+	du -h $ebook
 	rm -v $ebook
 fi
 
