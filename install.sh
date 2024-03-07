@@ -5,4 +5,4 @@ sudo apt install pandoc \
 	texlive-latex-base texlive-fonts-recommended \
 	texlive-extra-utils texlive-latex-extra
 
-exit 0
+exit $?
