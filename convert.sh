@@ -7,6 +7,7 @@ date
 ebook="HyperlingsHealthProtocol.pdf"
 
 if [[ -e $ebook ]]; then
+	echo -n "Old: "
 	du -h $ebook
 	rm -v $ebook
 fi
@@ -18,6 +19,7 @@ status=$?
 
 echo "Completed with status '$status'."
 
+echo -n "New: "
 du -h $ebook
 
 date
