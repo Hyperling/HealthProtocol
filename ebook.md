@@ -26,7 +26,7 @@ The saying "seek advice from those achieving the results you desire" really reso
 
 ### Superhuman Powers
 
-When I first started the lifestyle I fixed headaches, seasonal allergies, and digestive issues which I had almost all my life beforehand. I also had mental / emotional healings from depression and anxiety type issues like panic attacks, lethargy, and lack of motivation.
+When I first started the lifestyle I fixed headaches, seasonal allergies, and digestive issues which I had almost all my life beforehand. I also had mental / emotional healing from depression and anxiety type issues like panic attacks, lethargy, and lack of motivation.
 
 I don't get sick, and have not had any colds, flu, fevers, COVAIDs, etc since before May 2014 when I started this lifestyle. This is not due to sanitation, I don't use soap. It's also not due to avoiding cooties, my last partner had COVID at least 3 times, each for a lengthy duration, and I still shared food, drinks, kisses, a bed, and any other normal things with her.
 
@@ -74,11 +74,15 @@ This section is the largest simply because there are so many misconceptions in t
 - Greens and veggies are important but don't stress on them if you fall a little behind, get your calories first and then you'll have energy to use for supplementing in more nutrition dense foods.
 - If eating a lot of white rice or similar then be sure to plan high fiber meals, like an all fruit breakfast or add fiber-rich ingredients like quinoa or beans to your rice.
 - Simple simple simple. Food combining is a complex topic, but try to eat raw foods first, then cooked. Monomeals are ideal. Try to keep dishes at 5 to 10 ingredients or less. That number includes each of the salts / seasonings / toppings.
+- Raw foods can be much more nutritious than cooked foods, and when a fruitarian diet is done correctly it can even provide your hydration needs.
+    - The best I've ever felt in my life was as a fruitarian, AKA high carb low fat raw vegan. This is what I did for 3 months when I initially healed myself. My body felt like pure electricity, I had an energy abundance which was indescribable.
+    - Living as a fruitarian in the corporate world can be difficult but some do manage. This is what led to me eventually adding cooked foods. I still have many of the benefits, but the out of this world energy levels are still something I hope to revisit.
+    - "Eden Fruitarianism" is a great research topic.
 - Avoid known irritants. Many people have issues with alliums (onion, garlic) due to their neurotoxins. They also cause stinky body odor. Nightshades, most nuts/seeds, and some fruits like guava also don't agree with me personally, and you may have your own sensitivities which I am able to handle fine and cannot advise on.
     - Organic food should be preferred over traditional unless you are sure the produce has not been sprayed with pesticides or grown in unclean, polluted, or otherwise poorly managed soil. Locally grown food, even if not certified Organic, can be an excellent source if the farmers understand natural growing methods.
     - Absolutely avoid alcohol, it is nicknamed *Liquid Cancer* in certain health communities. It destroys many types of cells including red blood cells which directly correlate with athletic performance. If you would like the benefits of red wine, try making grape juice.
 - Avoid stimulants such as caffeine if looking to heal. They should not be necessary on this abundant lifestyle. Waking up in the morning will be a breeze, grogginess is a thing of the past.
-- A free and short color picture book by Dr. John McDougall has a really good explanation of each food group. The warning about fruit is geared towards diabetics, fruit is excellent and preferably the top choice for those who can handle it. It also covers exercise and other activities similar to this lifestyle. I would whole-heartedly approve of anyone aligning their lifestyle with McDougall's recommendations.
+- A free and short color picture book by Dr. John McDougall has a really good explanation of each food group. The warning about fruit is geared towards diabetics, fruit is excellent and preferably the top choice for those who can handle it. It also covers exercise and other activities similar to this lifestyle. I would wholeheartedly approve of anyone aligning their lifestyle with McDougall's recommendations.
     - On his website: *[DrMcDougall.com/education/information/cpb](https://www.drmcdougall.com/education/information/cpb/)*
     - Backup: *[Hyperling.com/files/media/documents/McDougallCPB.pdf](https://hyperling.com/files/media/documents/McDougallCPB.pdf)*
 - Switching to plants from high calorie animal products requires eating more volume than you may be used to in order to get enough energy. Cravings usually come from a lack of calories. It also may take time for your stomach to expand. A method to help with this is covered under [Hydration](#hydration).
@@ -281,3 +285,5 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Videos: *[Odysee | John Rose](https://odysee.com/@JohnRose:9)*
 - "Vegan Gains"
     - Videos: *[Odysee | Vegan Gains](https://odysee.com/@VeganGains:1)*
+- Wodzak, Mango and Kveta "Eden Fruitarian Couple"
+    - Videos: *[Odysee | Mango Wodzak & Kveta - Eden Fruitarian Couple](https://odysee.com/@fruitarian:8)*
