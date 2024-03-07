@@ -152,8 +152,8 @@ __Sleep__
 
 Would you like to wake up feeling energetic without any type of coffee or tea?
 
-- Consistent bedtimes. It can be a literal time on a clock but sunset works best biologically.
-- No electronic screens after sunset, or at least within 30 minutes to an hour before you plan to get in bed.
+- Practice consistent bedtimes. It can be a literal time on a clock but sunset works best biologically.
+- Do not use electronic screens after sunset, or at least within 30 minutes to an hour before you plan to get in bed.
     - Use dark themed apps and run an app for a blue light filtration AKA red shift AKA night light.
 - If you're having issues falling asleep, diabetes reversing doctor Neal Barnard recommends having a small carbohydrate snack, such as a few pieces of bread with nothing on them. I do that or sometimes drink a little maple syrup.
 - Keep a window cracked at night so that fresh air can get inside. This is something I did even in the heat of summer or chill of winter. I now prefer to sleep outdoors entirely.
