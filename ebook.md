@@ -4,7 +4,7 @@ by `Chad Michael "HyperVegan" Greenwood`
 
 *Health is a lifestyle, not a diet. Align yourself with Nature to receive its blessings.*
 
-First edition, 2024-03-06.
+First edition, last revised {REVISION_DATE}.
 
 ## Disclaimer
 
@@ -30,7 +30,7 @@ When I first started the lifestyle I fixed headaches, seasonal allergies, and di
 
 I don't get sick, and have not had any colds, flu, fevers, COVAIDs, etc since before May 2014 when I started this lifestyle. This is not due to sanitation, I don't use soap. It's also not due to avoiding cooties, my last partner had COVID at least 3 times, each for a lengthy duration, and I still shared food, drinks, kisses, a bed, and any other normal things with her.
 
-I don't get sore. My muscles can still get fatigued but it's nothing like the lactic acid pain of the past. I keep my glycogen stores are high. Lymph pumps and hydration keep the body limber and fresh. This allows me to run when I want or need to without any fear of sprains, strains, etc, assuming that I have not been lethargic recently.
+I don't get sore. My muscles can still get fatigued but it's nothing like the lactic acid pain of the past. I keep my glycogen stores high. Lymph pumps and hydration keep the body limber and fresh. This allows me to run when I want or need to without any fear of sprains, strains, etc, assuming that I have not been lethargic recently.
 
 I also healed my senses. My eyesight got better and my hearing and smelling got drastically better, to the point that people used to joke about me hearing a paper clip drop across a cube farm. The joke came from me guessing what song someone 2 desks away was listening to in his soundproof headphones without his neighbors even knowing he had music on.
 
@@ -52,7 +52,7 @@ On the topic of cancer, it's important to understand that our bodies create canc
 
 # Getting Into It
 
-All the topics require consistency to achieve maximum results. No exceptions. Failing on one can cause failures in others too. Image your health as a structure, like a temple. Each of the 6 protocols are like a pillar or column. Don't let your temple crumble.
+All the topics require consistency to achieve maximum results. No exceptions. Failing on one can cause failures in others too. Imagine your health as a structure, like a temple. Each of the 6 protocols are like a pillar or column. Don't let your temple crumble.
 
 The first 4 subjects are Physical Internal: food, water, sleep, and exercise. These are like the four corner pillars of the temple. Taking care of them helps provide the framework for the last two center pillars: environment and outlook, which can be seen as Physical External and Nonphysical Internal respectively. You can imagine them as holding the center of the temple's vaulted roof, or environment could be the floor and outlook is an altar or a grand statue of Self.
 
@@ -87,7 +87,7 @@ This section is the largest simply because there are so many misconceptions in t
     - On his website: *[DrMcDougall.com/education/information/cpb](https://www.drmcdougall.com/education/information/cpb/)*
     - Backup: *[Hyperling.com/files/media/documents/McDougallCPB.pdf](https://hyperling.com/files/media/documents/McDougallCPB.pdf)*
 - Switching to plants from high calorie animal products requires eating more volume than you may be used to in order to get enough energy. Cravings usually come from a lack of calories. It also may take time for your stomach to expand. A method to help with this is covered under [Hydration](#hydration).
-- My elevator-speech advice to person on blood medications was to eat large fruit breakfasts, including smoothies if on the go, then rice and beans for the rest of the day, and that it does not have to be religious. He followed this consistently while also eating at BBQs every few weekends and was still able to get off the prescriptions. I do not endorse eating at non-vegan BBQs, but it shows how powerful diet alone can be!
+- My elevator-speech advice to a person on blood medications was to eat large fruit breakfasts, including smoothies if on the go, then rice and beans for the rest of the day, and that it does not have to be religious. He followed this consistently while also eating at BBQs every few weekends and was still able to get off the prescriptions. I do not endorse eating at non-vegan BBQs, but it shows how powerful diet alone can be!
 - It also helps to slowly change your diet, replacing one staple at a time with a high calorie plant alternative. This helps to take the edge off of detoxification processes. Maybe change one item per week.
     - Detox can feel like headaches and other symptoms which can be confusing. If you've changed your diet drastically, started adding in lots of fresh juice, done any fasts, etc, then these can be expected for a few days until the body flushes out the toxins which were stored previously.
 
@@ -122,9 +122,9 @@ __Oral Hygiene__
 
 - Wait 2-3 hours after eating to brush your teeth, otherwise the enamel is softened and can be eroded. For this reason I usually brush mine in the morning and not at night.
     - I do not use toothpaste but will sometimes try non-alcoholic mouthwashes. I have experimented with activated charcoal and other products but do not feel I need them. I brush simply to remove the sticky coating of restaurant oils which collect sugars when I eat my fruit meals.
-- Do not drink hot or cold liquids while eating food of the opposite temperature, can cause micro cracks which can eventually lead to and other issues.
+- Do not drink hot or cold liquids while eating food of the opposite temperature, it can cause micro cracks which can eventually lead to other issues.
 - Always floss if you think you may have something between the teeth.
-    - Flossing is something that I definitely do regularly, where brushing is more as-needed.
+    - Flossing is something that I definitely do regularly, whereas my brushing is done more as-needed.
 - Swish your mouth with water after a meal to rinse out any remaining food, but don't drink much on top of food, it can cause stomach aches.
 
 ## Hydration
@@ -152,12 +152,13 @@ __Sleep__
 
 Would you like to wake up feeling energetic without any type of coffee or tea?
 
-- Consistent bedtimes. Can be a literal time on a clock but sunset works best biologically.
-- No electronic screens after sunset, or at least within 30 minutes to an hour before you plan to get in bed.
+- Practice consistent bedtimes. It can be a literal time on a clock but sunset works best biologically.
+- Do not use electronic screens after sunset, or at least within 30 minutes to an hour before you plan to get in bed.
     - Use dark themed apps and run an app for a blue light filtration AKA red shift AKA night light.
-- If having issues falling asleep, diabetes reversing doctor Neal Barnard recommends having a small carbohydrate snack, such as a few pieces of bread with nothing on them. I do that or sometimes drink a little maple syrup.
-- It is best not to wake up to an alarm in the morning. An emergency alarm set at the last possible time you can wake is acceptable as long as you plan t go to bed to wake up in advance of the time.
-    - There are of course exceptions to this, such as needing to wake up at a time you'd normally be sleeping, but in that case it would also be important to analyze why health-harming activities are being purposefully planned.
+- If you're having issues falling asleep, diabetes reversing doctor Neal Barnard recommends having a small carbohydrate snack, such as a few pieces of bread with nothing on them. I do that or sometimes drink a little maple syrup.
+- Keep a window cracked at night so that fresh air can get inside. This is something I did even in the heat of summer or chill of winter. I now prefer to sleep outdoors entirely.
+- It is best not to wake up to an alarm in the morning. An emergency alarm set at the last possible time you can wake is acceptable as long as you plan t go to bed to wake up in advance of that time.
+    - There are of course exceptions to this, such as needing to wake up at a time you'd normally be sleeping, but in that case it would also be important to analyze why health-harming activities are purposefully being planned.
 - I do not use a pillow and it resolved most my neck, shoulder, and back pains. I did this on my own though after giving up on a pillow and not buying another. I'm a side sleeper too, and do not rest on my arm, hair, hands, etc. My head / face is on the same surface and same level as my shoulder.
     - I'm unsure if this would help others as I have not met anyone who's tried.
 - I also find that firm surfaces give me a greater feeling of rest in the morning. My favorite mattress ever was a piece of OSB plywood with 2 single folded comforters on top as a cushion.
@@ -169,13 +170,13 @@ __Exercise__
 
 Get out and move!
 
-- Lymph pump, move it like you mean it for at least 25-30 minutes daily.
-    - Not a slow dog walk, put it up a gear or two from that to a pace which can cause you to sweat, but also don't need to be lunging or acting like a crazy speed walker.
+- Lymph pumps are done by moving like you mean it for at least 25-30 minutes daily.
+    - Not a slow dog walk, put it up a gear or two from that to a pace which can cause you to sweat, but you also don't need to be lunging or acting like a crazy speed walker.
     - No stopping and smelling the flowers, this is for activating certain body processes, if you stop or significantly slow down then reset your timer!
-    - I know I have hit my mark when my internal oven turns kicks in and I can take my gloves off even if it's cold out.
+    - I know I've hit my mark when my internal oven kicks in and I can take my gloves off even if it's cold out.
 - Challenge yourself weekly.
     - Something you know you can do but still takes some additional effort.
-    - Hour or longer hikes with elevation, going an extra set during a workout, jogging instead of walking, running instead of jogging, setting a personal best cycling from one spot to another, etc.
+    - This can look like an extended hike with elevation, going an extra set during a workout, jogging instead of walking, running instead of jogging, setting a personal best cycling a segment, etc.
 - If you're an athlete or would like to become one, it also helps to have a recovery day once a week, as well as doing every 4th week as a rest week where you keep your heart rate lower than usual.
     - This allows the body to synthesize and heal rather than get worn out. You may find that after the rest you feel better / faster / stronger than before you stopped.
 
@@ -185,8 +186,8 @@ __Environment__
 
 Clean, tidy, and pleasant to look at, your immediate area is critical to having peace of mind and feeling safe.
 
-- Time in nature at least once a week for a few hours, away from pollution, electronics, unnatural noises, etc.
-- Limit artificial substances such as soaps, shampoos, sanitizer, antibiotics, candles, sprays, glues, paints, pesticides, dioxins from burning trash, etc.
+- Spend time in nature at least once a week for a few hours, away from pollution, electronics, unnatural noises, etc.
+- Limit artificial substances such as soaps, shampoos, sanitizers, antibiotics, candles, sprays, glues, paints, pesticides, dioxins from burning trash, etc.
     - Instead use elbow grease, a hand towel, and water for most situations. Baking soda or castile soaps like Dr Bronner's are okay when something better is needed.
     - Scent homes with essential oil diffusers. If using incense leave windows open and be sure you know what the ingredients are, otherwise use sage leaves or other natural products.
 - If you live somewhere excessively polluted your best bet is to move, not trying to fix the environment, especially if it's someone else causing the harm. This is not easy advice but your health and any dependents you take with you will be thankful in the long run.
@@ -248,7 +249,7 @@ This book is open source, and can be found at *[github.com/Hyperling/HealthProto
 
 # Sources
 
-Below are many of the sources I have used when building my health arsenals. I do not claim to trust any of these sources 100% and some characters may even be considered controversial. I only take what I find to be True and discard any other information.
+Below are many of the sources I have used when building my health arsenal. I do not claim to trust any of these sources 100% and some characters may even be considered controversial. I only take what I find to be True and discard any other information.
 
 - Barnard, Dr. Neal
     - Book: "Dr. Neal Barnard's Program for Reversing Diabetes"
@@ -278,7 +279,7 @@ Below are many of the sources I have used when building my health arsenals. I do
     - Website: *[30BananasADay.com](https://30bananasaday.com)*
 - Kohler, John
     - Website: *[Okraw.com](http://Okraw.com)*
-    - Website: *[GrowYourGreens.com](http://GrowingYourGreens.com)*
+    - Website: *[GrowingYourGreens.com](http://GrowingYourGreens.com)*
     - Website: *[DiscountJuicers.com](https://DiscountJuicers.com)*
 - Lee, Cahlen Riley "The Modern Day Wizard"
     - Website: *[Cahlen.org](https://Cahlen.org)*

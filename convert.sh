@@ -12,7 +12,10 @@ if [[ -e $ebook ]]; then
 	rm -v $ebook
 fi
 
-pandoc ebook.md \
+cp ebook.md /tmp/
+sed -i "s/{REVISION_DATE}/`date +'%Y-%m-%d'`/g" /tmp/ebook.md
+
+pandoc /tmp/ebook.md \
 	-s -N --toc --toc-depth=3 \
 	-o $ebook
 status=$?
