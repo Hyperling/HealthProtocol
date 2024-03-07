@@ -239,7 +239,7 @@ For example, I only claim to eat a 95% whole foods diet, I do not attach emotion
 
 Alrighty, well, thanks for watching / listening / reading! My channels and contact information can be found on my website listed below. Feel free to leave any comments, questions, or critiques. I'd love it if you shared this information with others as well. I hope you have a wonderful day!
 
--- Peace out, *[Chad @ Hyperling.com](https://hyperling.com/about/)*
+-- Peace out, *[Chad from Hyperling.com](https://hyperling.com/about/)*
 
 This book is open source, and can be found at *[github.com/Hyperling/HealthProtocol](https://github.com/Hyperling/HealthProtocol)*.
 
