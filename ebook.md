@@ -40,11 +40,11 @@ I can still get injured, luckily inflammation is nowhere like before. I get litt
 
 I can also be poisoned from consuming toxins and irritants, but they are easy to cleanse out based on the Water, Exercise, and Environment pillars. Even when I've had things like unripe barrel cactus fruit I was able to clear it out within a day then be back to normal.
 
-It's not just me though, I've helped other people get better. Some have stuck to it well enough to get off of all their medications. A friend who's had liver issues since childhood and been through many treatments even got to reduce his medications after taking the dietary advice.
-
 ### Medications and Illnesses
 
-And just to be clear, I am not a pharmaceutical doctor and cannot help with your prescriptions. My advice would be to let your doctor know you are trying lifestyle changes and would like to be tested in a few weeks to see whether you can reduce your dosage. I cannot be involved in this process. If your doctor does not listen or is not receptive to healing via lifestyle, seek a second opinion.
+It's not just me though, I've helped other people get better. Some have stuck to it well enough to get off of all their medications. A friend who's had liver issues since childhood and been through many treatments even got to reduce his medications after taking the dietary advice.
+
+And just to be clear, I am not a pharmaceutical doctor and cannot help with your prescriptions. My advice would be to let your doctor know you are trying lifestyle changes and would like to be tested in a few weeks to see whether you can reduce any dosages. I cannot be involved in this process. If your doctor does not listen or is not receptive to healing via lifestyle, it'd be best to seek a second opinion.
 
 Speaking of doctors, this type of lifestyle has been shown to prevent and reverse most of the mainstream ailments people have. Things such as heart disease, diabetes, cancer, etc. Most the reasons for these are toxins in the diet which are not properly expelled. This lifestyle both prevents the toxins from coming in, as well as flushes out any which have been inadvertently stored in the body. The lifestyle also handles any toxins which people consider contagions. I have not had any need for a dentist or doctor since making these changes.
 
