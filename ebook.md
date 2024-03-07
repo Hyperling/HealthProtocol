@@ -71,6 +71,7 @@ This section is the largest simply because there are so many misconceptions in t
     - This is not a mainstream "vegan diet" with fake meats and cheeses, those products are processed food and should be considered harmful to health. This is why whole foods was listed as point #1.
     - The macronutrient ratio on a website like *[Cronometer.com](https://cronometer.com)* should be set to 80/10/10, and choose the calorie needs to be where you want your future activity levels to be, not your current level.
         - Macronutrient ratio mostly only matters at the week level. Getting enough calories definitely matters daily. What you eat today is your energy for tomorrow. Small discrepancies are okay but too many will break the consistency. For example, a single 60/30/10 day will not hurt if all your other days are 90/5/5.
+    - Some may argue against 80/10/10 or veganism in general and say it's protein deficient. As long as you don't starve yourself you'll be able to prove them wrong. Starvation is the only protein deficient diet.
 - Greens and veggies are important but don't stress on them if you fall a little behind, get your calories first and then you'll have energy to use for supplementing in more nutrition dense foods.
 - If eating a lot of white rice or similar then be sure to plan high fiber meals, like an all fruit breakfast or add fiber-rich ingredients like quinoa or beans to your rice.
 - Simple simple simple. Food combining is a complex topic, but try to eat raw foods first, then cooked. Monomeals are ideal. Try to keep dishes at 5 to 10 ingredients or less. That number includes each of the salts / seasonings / toppings.
@@ -91,6 +92,13 @@ This section is the largest simply because there are so many misconceptions in t
     - Detox can feel like headaches and other symptoms which can be confusing. If you've changed your diet drastically, started adding in lots of fresh juice, done any fasts, etc, then these can be expected for a few days until the body flushes out the toxins which were stored previously.
 
 ### How to Eat
+
+__Supplements__
+
+- Ideally all nutrition comes from food. B12 is the only exception, if you're not foraging frequently or drinking natural water then taking some methylcobalamin every few days or weeks is not a bad idea.
+    - Athletes will need more than others. Dropping a dissolvable tablet in your water bottle is an easy way to make up for that. Add an extra teaspoon of sole water and you have a super cheap sports drink!
+- If people tell you that you need to take Omega 3's, Vitamin K, or any other nutrient that they say vegans are deficient in, be sure to gauge their health and see if you want to end up like them or like other rolemodels.
+- Most supplements are missing the coenzymes needed to process the nutrient properly. They are not whole foods, they are definitely processed foods. Some have even proposed that that taking such nutrients at the concentrated levels they are sold at can be harmful to health.
 
 __Chewing__
 
@@ -182,7 +190,7 @@ Clean, tidy, and pleasant to look at, your immediate area is critical to having 
     - Instead use elbow grease, a hand towel, and water for most situations. Baking soda or castile soaps like Dr Bronner's are okay when something better is needed.
     - Scent homes with essential oil diffusers. If using incense leave windows open and be sure you know what the ingredients are, otherwise use sage leaves or other natural products.
 - If you live somewhere excessively polluted your best bet is to move, not trying to fix the environment, especially if it's someone else causing the harm. This is not easy advice but your health and any dependents you take with you will be thankful in the long run.
-- Mental toxins exist as well. This includes media such as the mainstream news, mindless television shows, music with poor messages, movies which push subjective morality, negative  friends / family / coworkers, any social media addictions, etc.
+- Mental toxins exist as well. This includes media such as the mainstream news, mindless television shows, music with poor messages, movies which push subjective morality, negative friends / family / coworkers, any social media addictions, etc.
 
 ## Positivity
 
